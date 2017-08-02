@@ -5,7 +5,6 @@ NAÏVE BAYES CLASSIFIER FOR TEXT CLASSIFICATAION
 
 The training and testing file is separated while file_reading operation by limiting the input data for training from [:500] and then the rest of the file is taken testing to form [500: till eof]
 
-TRAINING
 1)	DATA PREPROCESSING:
 •	firstly, I extracted all the training data in one file
 •	Then using regular expression, to split the sentence into words. 
