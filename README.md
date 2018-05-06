@@ -34,4 +34,4 @@ The objective of the program is to predict the class label of the news articles 
 
 1)	Initially, with 500 training and testing data, the accuracy of the function was 78.256%
 2)	When the number of training data is increased to 700 and testing dataset to 300, the accuracy of the function then increased to 82.421%
-The accuracy of the program can be further increased by stemming and lemmatization of the tokens generated after preprocessing. Clean dataset results in increased accuracy of the function.
+The accuracy of the program can be further increased by RNN or deep learning. Clean dataset results in increased accuracy of the function.
